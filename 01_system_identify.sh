@@ -2,7 +2,7 @@
 # ============================================================
 # Script 1: System Identity Report
 # Author    : APEKSHA SINGH
-# Reg No    : 24BCY10176
+# Reg No    : 24BCE10798
 # University: VIT Bhopal University
 # Course    : Open Source Software
 # Software  : LibreOffice
